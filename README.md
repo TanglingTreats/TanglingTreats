@@ -4,7 +4,7 @@ I'm a full-stack engineer based in Singapore!
 - 🌱 I’m currently learning ReactJS and focusing on front-end architecture and development
 - 🔭 I’m currently working on an educational project [NSSSH](https://github.com/TanglingTreats/NSSSH) aka Not Safe SSH. This is a project to improve my practical understanding of networking at a lower level.
 
-### Technology Learnt
+### Technology That I Use
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
