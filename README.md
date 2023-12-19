@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a full-stack engineer based in Singapore!
 
-- 🌱 I’m currently learning ReactJS and focusing on front-end architecture and development
+- 🌱 I’m currently learning ReactJS, NextJS and focusing on front-end architecture and development. This will be in the form of my portfolio and blogging platform
 - 🔭 I’m currently working on an educational project [NSSSH](https://github.com/TanglingTreats/NSSSH) aka Not Safe SSH. This is a project to improve my practical understanding of networking at a lower level.
 
 ### Technology That I Use
