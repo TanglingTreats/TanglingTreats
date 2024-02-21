@@ -2,7 +2,7 @@
 I'm a full-stack engineer based in Singapore!
 
 - 🌱 I’m currently learning ReactJS, NextJS and focusing on front-end architecture and development. This will be in the form of my [portfolio and blogging platform](https://github.com/TanglingTreats/next-blog).
-- 🔭 I’m currently working on an educational project [NSSSH](https://github.com/TanglingTreats/NSSSH) aka Not Safe SSH. This is a project to improve my practical understanding of networking at a lower level.
+- 🔭 I’m currently engaging myself on the journey of learning to design and implement programming languages! [JLox](https://github.com/TanglingTreats/jlox) [CLox](https://github.com/TanglingTreats/clox)
 
 ### Technology That I Use
 <img align="left" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
