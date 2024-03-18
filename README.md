@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm a full-stack engineer based in Singapore!
+# Hey there  🙌
+I'm a full-stack engineer!
 
 - 🌱 I’m currently learning ReactJS, NextJS and focusing on front-end architecture and development. This will be in the form of my [portfolio and blogging platform](https://github.com/TanglingTreats/next-blog).
 - 🔭 I’m currently engaging myself on the journey of learning to design and implement programming languages! [JLox](https://github.com/TanglingTreats/jlox) [CLox](https://github.com/TanglingTreats/clox)
