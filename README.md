@@ -1,13 +1,14 @@
 <h1 align="center">Hey there&nbsp&nbsp&nbsp🙌</h1>
-<p align="left">programming and tea got me like --><img src="konosuba.gif" alt="banner"></p>
 
-<p>I'm a software engineer and I like creating tools.</p>
+<img align="center" src="konosuba.gif" alt="banner" width="1000" height="280">
 <br>
+<p>I'm a software engineer and I like creating tools.</p>
+
 <ul>
 <li>🌱 I’m currently creating my [portfolio and blogging platform](https://github.com/TanglingTreats/next-blog) with ReactJS and NextJS.</li>
 <li>🔭 I’m also creating a [tool](https://github.com/TanglingTreats/api-tester) for fun to stress test and analyse API request loads using Go.</li>
 </ul>
-  
+
 <br>
 <h2>My Tech Stack</h2>
 <div>  
