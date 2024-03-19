@@ -1,5 +1,5 @@
-<p align="left">programming and tea got me like --><img src="konosuba.gif" alt="banner"></p>
 <h1 align="center">Hey there&nbsp&nbsp&nbsp🙌</h1>
+<p align="left">programming and tea got me like --><img src="konosuba.gif" alt="banner"></p>
 
 <p>I'm a software engineer and I like creating tools.</p>
 <br>
