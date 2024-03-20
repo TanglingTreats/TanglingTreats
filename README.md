@@ -12,7 +12,7 @@
 <br>
 <h2>My Tech Stack</h2>
 <div>  
-  <img src="nagato-typing.gif" alt="banner" align="right">
+  <img src="nagato-typing.gif" alt="banner" align="right" height="170">
 </div>
 <div>
   <li>
