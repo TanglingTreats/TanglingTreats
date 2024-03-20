@@ -15,7 +15,7 @@
   <img src="nagato-typing.gif" alt="banner" align="right" height="240">
 </div>
 <div>
-  <p>I like to work through the stack and particularly gravitate towards 'lower-level' languages.</p>
+  <p>I like to work through the stack and particularly gravitate towards 'low-level' languages.</p>
   <li>
     <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img align="center" alt="golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
@@ -37,17 +37,3 @@
     <img align="center" alt="latex" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
   </li>
 </div>
-<!--
-**TanglingTreats/TanglingTreats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
