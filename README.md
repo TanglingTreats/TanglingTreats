@@ -12,9 +12,10 @@
 <br>
 <h2>My Tech Stack</h2>
 <div>  
-  <img src="nagato-typing.gif" alt="banner" align="right" height="170">
+  <img src="nagato-typing.gif" alt="banner" align="right" height="240">
 </div>
 <div>
+  <p>I like to work through the stack and particularly gravitate towards 'lower-level' languages.</p>
   <li>
     <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img align="center" alt="golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
@@ -26,6 +27,9 @@
   <li>
     <img align="center" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
     <img align="center" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  </li>
+  <li>
+    <img align="center" alt="lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
   </li>
   <li>
     <img align="center" alt="arch" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
