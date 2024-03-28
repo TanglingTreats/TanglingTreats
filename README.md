@@ -5,7 +5,7 @@
 <p>I'm a software engineer and I like creating tools.</p>
 
 <ul>
-<li>🌱 I’m currently creating my <a href="https://github.com/TanglingTreats/next-blog">portfolio and blogging platform</a> with ReactJS and NextJS.</li>
+<li>🌱 I’m currently creating a <a href="https://github.com/TanglingTreats/mugen-typer"> typing test platform</a> with NextJS.</li>
 <li>🔭 I’m also creating a <a href="https://github.com/TanglingTreats/api-tester">tool</a> for fun to stress test and analyse API request loads using Go.</li>
 </ul>
 
