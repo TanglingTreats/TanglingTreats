@@ -2,12 +2,7 @@
 
 <img align="center" src="konosuba.gif" alt="banner" width="1000" height="280">
 <br>
-<p>I'm a software engineer and I like creating tools.</p>
-
-<ul>
-<li>🌱 I’m currently creating a <a href="https://github.com/TanglingTreats/mugen-typer"> typing test platform</a> with NextJS.</li>
-<li>🔭 I’m also creating a <a href="https://github.com/TanglingTreats/api-tester">tool</a> for fun to stress test and analyse API request loads using Go.</li>
-</ul>
+<p>I like creating tools and using them. Maybe in C or Go.</p>
 
 <br>
 <h2>My Tech Stack</h2>
@@ -15,7 +10,6 @@
   <img src="nagato-typing.gif" alt="banner" align="right" height="240">
 </div>
 <div>
-  <p>I like to work through the stack and particularly gravitate towards 'low-level' languages.</p>
   <li>
     <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img align="center" alt="golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
