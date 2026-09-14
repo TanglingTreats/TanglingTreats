@@ -1,8 +1,8 @@
-<h1 align="center">Sup &nbsp&nbsp&nbsp🙌</h1>
+<h1 align="center">Sup &nbsp&nbsp&nbsp🙌 I'm Edwin</h1>
 
 <!-- <img align="center" src="konosuba.gif" alt="banner" width="1000" height="280">
 <br> -->
-<p>I like creating tools and using them. Maybe in C or Go.</p>
+<p>I like creating tools that help boost developer productivity and working on the backend.</p>
 
 <br>
 <h2>My Tech Stack</h2>
