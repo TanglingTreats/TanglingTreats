@@ -1,7 +1,7 @@
 <h1 align="center">Sup &nbsp&nbsp&nbsp🙌</h1>
 
-<img align="center" src="konosuba.gif" alt="banner" width="1000" height="280">
-<br>
+<!-- <img align="center" src="konosuba.gif" alt="banner" width="1000" height="280">
+<br> -->
 <p>I like creating tools and using them. Maybe in C or Go.</p>
 
 <br>
