@@ -1,4 +1,4 @@
-<h1 align="center">Sup &nbsp&nbsp&nbsp🙌&nbsp&nbsp&nbspI'm Edwin</h1>
+<h1 align="center">Sup &nbsp&nbsp🙌&nbsp&nbsp&nbspI'm Edwin</h1>
 
 <!-- <img align="center" src="konosuba.gif" alt="banner" width="1000" height="280">
 <br> -->
