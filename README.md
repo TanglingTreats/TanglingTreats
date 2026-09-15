@@ -2,7 +2,19 @@
 
 <!-- <img align="center" src="konosuba.gif" alt="banner" width="1000" height="280">
 <br> -->
-<p>I like creating tools that help boost developer productivity and working on the backend.</p>
+<p>Welcome to my profile!</p>
+<p>I like creating tools that help boost developer productivity and working behind-the-scenes.</p>
+
+<p>Here's a long list of things I started doing but not yet completed (oops):</p>
+<li>
+  REST API Testing tool for performance benchmarking and stress testing
+</li>
+<li>
+  A trading simulator to help backtest trading strategies
+</li>
+<li>
+  A programming language called Zauberei
+</li>
 
 <br>
 <h2>My Tech Stack</h2>
